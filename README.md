@@ -22,7 +22,7 @@ func GetBio() Bio {
 		"- ⚡ Quick bio:":                    "Hello everyone, welcome to my page",
 		"- 🔭 I’m currently working on":      "Fullstack Intern",
 		"- 🌱 I’m currently learning":        "NodeJS, React Native, Golang, Typescript, DevOps technologies",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Dev/DevOps related projects",
+		"- 👯 I’m looking to collaborate on": "JavaScript, Golang and Dev/DevOps related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning",
 		"- 💬 Ask me about":                  "javascript, GO, SQL, Software Design & Architecture, Web-Dev",
 		"- 📫 How to reach me:":              "https://github.com/DucHuy2801",
