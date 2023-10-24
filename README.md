@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Full stack Intern**
 
-- 🌱 I’m currently learning **NodeJS, ReactJS**
+- 🌱 I’m currently learning **NodeJS, ReactJS, Golang**
 
-- 👯 I’m looking to collaborate on **Full stack with JS, GO**
+- 👯 I’m looking to collaborate on **JS, GO**
 
-- 🤝 I’m looking for help with **Full stack**
+- 🤝 I’m looking for help with **Full stack developer**
 
 - 💬 Ask me about **Javascript, Golang**
 
