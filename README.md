@@ -52,3 +52,7 @@
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duchuy2801&show_icons=true&locale=en&layout=compact" alt="duchuy2801" /></p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DucHuy2801&theme=dracula)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DucHuy2801)](https://github.com/DucHuy2801/github-readme-stats)
+
