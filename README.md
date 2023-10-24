@@ -12,7 +12,7 @@
 - 💬 Ask me about **Javascript, Golang**
 
 - 📫 How to reach me **theflash28012002@gmail.com**
-![](https://komarev.com/ghpvc/?username=DucHuy2801&color=green)
+- ![](https://komarev.com/ghpvc/?username=DucHuy2801&color=green)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
