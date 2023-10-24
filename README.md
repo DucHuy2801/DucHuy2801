@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NodeJS, ReactJS, Golang**
 
-- 👯 I’m looking to collaborate on **JS, GO**
+- 👯 I’m looking to collaborate on **JavaScript, TypeScript, Golang**
 
 - 🤝 I’m looking for help with **Full stack developer**
 
