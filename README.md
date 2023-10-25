@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm DucHuy2801</h1>
-<h3 align="center">Just study software engineering!</h3>
+<h3 align="center">Just studied software engineering!</h3>
 
 - 🔭 I’m currently working on **Full stack Intern**
 
