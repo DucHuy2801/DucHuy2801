@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Full stack Intern**
 
-- 🌱 I’m currently learning **NodeJS, ReactJS, Golang**
+- 🌱 I’m currently learning **NodeJS, ReactJS**
 
-- 👯 I’m looking to collaborate on **JavaScript, TypeScript, Golang**
+- 👯 I’m looking to collaborate on **JavaScript, TypeScript**
 
 - 🤝 I’m looking for help with **Full stack developer**
 
-- 💬 Ask me about **Javascript, Golang**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **theflash28012002@gmail.com**
 - ![](https://komarev.com/ghpvc/?username=DucHuy2801&color=green)
