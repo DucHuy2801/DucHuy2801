@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm DucHuy2801</h1>
 <h3 align="center">Just studied software engineering!</h3>
 
-- 🔭 I’m currently working on **Full stack Intern**
+- 🔭 I’m currently working on **Fullstack Intern**
 
 - 🌱 I’m currently learning **NodeJS, ReactJS**
 
 - 👯 I’m looking to collaborate on **JavaScript, TypeScript**
 
-- 🤝 I’m looking for help with **Full stack developer**
+- 🤝 I’m looking for help with **Fullstack developer**
 
 - 💬 Ask me about **Javascript**
 
