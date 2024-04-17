@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently finding on **Developer Fresher**
 
-- 🌱 I’m currently learning **NodeJS, ReactJS**
+- 🌱 I’m currently learning **NodeJS, Go**
 
 - 👯 I’m looking to collaborate on **JavaScript, TypeScript**
 
-- 🤝 I’m looking for help with **Fullstack developer**
+- 🤝 I’m looking for help with **Software Engineer**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript, Go**
 
 - 📫 How to reach me **theflash28012002@gmail.com**
 - ![](https://komarev.com/ghpvc/?username=DucHuy2801&color=green)
