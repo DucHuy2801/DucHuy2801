@@ -19,7 +19,7 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DucHuy2801&theme=dark&hide_border=false" alt="GitHub Readme Streak Stats"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucHuy28016&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DucHuy2801&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Top Languages"/>
 
 </div>
 
