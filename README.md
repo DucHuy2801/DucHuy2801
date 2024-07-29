@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm DucHuy2801</h1>
+<h1 align="center">Hi 👋, I'm Ausgustus</h1>
 <h3 align="center">Just studied software engineering!</h3>
 
 - 🔭 I’m currently finding on **Developer Fresher**
 
 - 🌱 I’m currently learning **NodeJS, Go**
 
-- 👯 I’m looking to collaborate on **JavaScript, TypeScript**
+- 👯 I’m looking to collaborate on **JavaScript, TypeScript, Golang**
 
 - 🤝 I’m looking for help with **Software Engineer**
 
-- 💬 Ask me about **Javascript, Go**
+- 💬 Ask me about **Javascript, Golang**
 
 - 📫 How to reach me **theflash28012002@gmail.com**
 - ![](https://komarev.com/ghpvc/?username=DucHuy2801&color=green)
@@ -52,9 +52,9 @@
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=duchuy2801&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=ausgustus&show_icons=true&locale=en&layout=compact)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DucHuy2801&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ausgustus&theme=dracula)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DucHuy2801)](https://github.com/DucHuy2801/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ausgustus)](https://github.com/DucHuy2801/github-readme-stats)
 
